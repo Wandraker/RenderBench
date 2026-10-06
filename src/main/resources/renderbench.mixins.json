@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.onelsey.renderbench.platform.minecraft.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "MinecraftMixin",
+    "MinecraftServerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
